@@ -58,3 +58,6 @@ set autochdir
 "au BufNewFile,BufRead *.as set filetype=actionscript
 "
 "set fencs=utf-8,gb18030,big5
+
+" wget http://leafo.net/lessphp/vim/less.vim
+au BufNewFile,BufRead *.less set filetype=less
