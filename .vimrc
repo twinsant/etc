@@ -8,6 +8,7 @@ set incsearch
 
 " Indent
 set smartindent
+set pastetoggle=<F2>
 
 " Restore cursor to file position in previous editing session
 " http://vim.wikia.com/wiki/Restore_cursor_to_file_position_in_previous_editing_session
