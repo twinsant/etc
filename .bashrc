@@ -129,7 +129,7 @@ alias cloak="ssh devel@cloak"
 
 alias dell="ssh djx@dell"
 alias xen="ssh devel@xen"
-export PATH=/opt/mongodb-linux-i686-2.2.0/bin/:/home/ant/android-sdks/platform-tools/:/home/ant/android-ndk-r8b/:/opt/jdk1.7.0_05/bin/:$PATH
+export PATH=/opt/Sublime\ Text\ 2/:/opt/mongodb-linux-i686-2.2.0/bin/:/home/ant/android-sdks/platform-tools/:/home/ant/android-ndk-r8b/:/opt/jdk1.7.0_05/bin/:$PATH
 alias eclipse="/opt/eclipse/eclipse"
 alias linodet="ssh -N -v -D 9000 -C twinsant@106.187.53.127"
 alias linode="ssh twinsant@106.187.53.127"
